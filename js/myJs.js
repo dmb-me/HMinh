@@ -1,7 +1,7 @@
 const textConfig = {
   text1: "Chào Hồng Minh",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu thích tớ có đúng không naofoooooo :>>>",
+  text3: "Cậu thích tớ có đúng không nàooooooo :>>>",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm chồng tớ rùi đó nha :v",
   text5: "Cậu mơ à???",
   text6: "Yêu ơi là yêu <3",
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Tell me whyyyyyyy'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
